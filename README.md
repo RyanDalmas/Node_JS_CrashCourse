@@ -1,5 +1,6 @@
 # Node_JS_CrashCourse
-#### Completed an introductory crash course on Node.js - Crash Course by Traversy Media. [Click here to complete the Crash Course!](https://youtu.be/fBNz5xF-Kx4)
+#### Completed an introductory crash course on Node.js - Crash Course by Traversy Media. 
+> [Click here to complete the Crash Course!](https://youtu.be/fBNz5xF-Kx4)
 
 #### This Crash Course Covered
 > - Require
