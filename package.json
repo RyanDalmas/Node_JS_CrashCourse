@@ -1,0 +1,26 @@
+{
+  "name": "nodecrashcourse",
+  "version": "1.0.0",
+  "description": "Crash course on Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev" : "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanDalmas/Node_JS_CrashCourse.git"
+  },
+  "author": "Ryan Dalmas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanDalmas/Node_JS_CrashCourse/issues"
+  },
+  "homepage": "https://github.com/RyanDalmas/Node_JS_CrashCourse#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
