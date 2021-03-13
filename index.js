@@ -20,9 +20,6 @@ logger.log('Hello there'); */
 const http = require('http');
 const path = require('path');
 const fs = require('fs');
-const { inherits } = require('util');
-const { create } = require('domain');
-const { isMaster } = require('cluster');
 
 const server = http.createServer((req,res) => {
     /* if(req.url == '/') {
